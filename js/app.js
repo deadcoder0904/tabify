@@ -80,8 +80,6 @@ Do different <i class='em em-wink'></i>
 	li.forEach(l => {
 		l.addEventListener('click', () => {
 			toggleActiveTabClass(l);
-			console.log(l);
 		});
 	});
-
 });
