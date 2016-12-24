@@ -2,7 +2,7 @@
 
 > :skull: Simple Tabs using Flexbox :smiley:
 
-![](http://imgur.com/2bUkzRz.png)
+![](http://imgur.com/HDlvY4Q.png)
 
 ## License
 
