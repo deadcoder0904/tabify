@@ -1,6 +1,8 @@
 # tabify
 
+> :skull: Simple Tabs using Flexbox :smiley:
 
+![](http://imgur.com/2bUkzRz.png)
 
 ## License
 
